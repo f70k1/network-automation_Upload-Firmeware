@@ -1,0 +1,4 @@
+device, manufacturer, ip-address
+S1,Cisco,192.168.207.161
+R1,Cisco,192.168.207.160
+R2,Cisco,192.168.207.162
